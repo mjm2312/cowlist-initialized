@@ -13,9 +13,13 @@
     "start": "nodemon server/index.js"
   },
   "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "mysql": "^2.18.1",
     "nodemon": "^1.19.4",
     "react": "^16.12.0",
+    "react-axios": "^2.0.3",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
